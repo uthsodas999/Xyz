@@ -1,0 +1,6 @@
+{
+  "name": "XYZ Fish Commission Management System",
+  "description": "Modern, responsive app for managing a fish commission business.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
